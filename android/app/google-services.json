@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159725841533",
+    "project_id": "masalinressami-5fbe7",
+    "storage_bucket": "masalinressami-5fbe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159725841533:android:af17d90b3a1c0cbdafd514",
+        "android_client_info": {
+          "package_name": "com.example.masalin_ressami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7ov4wF8Oud8ua8pvVoVOStslDYrUpss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
