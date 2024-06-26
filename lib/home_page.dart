@@ -36,6 +36,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text('Masalın Ressamı'),
       ),
+
       body: _widgetOptions.elementAt(_selectedIndex),
       bottomNavigationBar: BottomNavigationBar(
         items: const <BottomNavigationBarItem>[
