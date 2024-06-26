@@ -6,6 +6,8 @@ class AddScreen extends StatelessWidget {
     return Center(
 
 
+
+
       child: Text(
         'Ekleme Sayfası',
         style: TextStyle(fontSize: 24),
